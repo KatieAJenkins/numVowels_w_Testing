@@ -1,0 +1,25 @@
+{
+  "name": "num_vowels_w_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "num_values_w_testing.js",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatieAJenkins/warmups_q3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatieAJenkins/warmups_q3/issues"
+  },
+  "homepage": "https://github.com/KatieAJenkins/warmups_q3#readme"
+}

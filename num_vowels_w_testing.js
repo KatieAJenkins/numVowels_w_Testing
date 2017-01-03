@@ -14,9 +14,9 @@ var vowelCount = 0;
 for (var i = 0; i <= string.length; i++){
     if (string[i] === "a" || string[i] === "e" || string[i] === "i" || string[i] === "o" || string[i] ==="u"){
       vowelCount += 1;
-      console.log(vowelCount);
     }
-}
+  }
+  console.log(vowelCount);
   return vowelCount;
 };
 
